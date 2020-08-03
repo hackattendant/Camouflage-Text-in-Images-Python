@@ -1,1 +1,2 @@
-# JR_Seminar_Steganography
+# TODO Add README
+
