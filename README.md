@@ -1,4 +1,4 @@
-# Secret Messages in Images with Python
+# Camouflage Text in Images with Python
 
 This uses image-based steganography to encode text in images.  While analysis on the image can prove it has been tampered with, this is only possible if you have the ORIGINAL image.  Without the original image there is no way to tell that a message has been injected into the photo.  The notebook provides various functions and demonstrations to illustrate this point so check it out and pay close attention to the plots and images.
 
